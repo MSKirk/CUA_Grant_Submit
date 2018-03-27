@@ -5,8 +5,8 @@ __Step 1__
 - [ ] Get team together
 
 - [ ] Initiate Step 1 NPIRES process 
-	- Link team members (can not be changed)
-	- Enter title (can not be changed)
+	- Link team members **[can not be changed]**
+	- Enter title **[can not be changed]**
 
 - [ ] Write Step 1 or NOI with summary
 
