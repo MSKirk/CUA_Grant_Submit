@@ -20,7 +20,7 @@ __Step 2__
 
 
 - [ ] Write Step 2 Scientific/Technical/Management section
-        Refer to grant call for specifics to include
+	- Refer to grant call for specifics to include
 
 - [ ] List of References  
 
@@ -36,7 +36,7 @@ __Step 2__
 - [ ] Gather Biographical Sketches and Current & Pending Funding from Team
 
 - [ ] Get budget from GSFC civil servant
-        Have them include your lab tax on their form (from salary requested)
+	- Have them include your lab tax on their form (from salary requested)
 
 - [ ] Compile into two .pdf docs:
     - [ ] Complete proposal  
