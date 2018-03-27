@@ -1,5 +1,7 @@
 **Steps to Submit a Grant with CUA**
 -------------------------------------
+__Step 1__
+
 - [ ] Get team together
 
 - [ ] Initiate Step 1 NPIRES process 
@@ -11,6 +13,7 @@
 - [ ] Release Step 1 to Org
 
 -------------------------------------
+__Step 2__
 
 - [ ] Initiate Step 2 NPIRES process
 	- [ ] Link team members in *Proposal Team*
