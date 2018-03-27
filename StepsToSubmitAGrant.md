@@ -27,7 +27,7 @@ __Step 2__
 - [ ] List of Acronyms 
 
 - [ ] Put budgets together:
-	- [ ] Spread Sheets (make sure it is the current one)
+	- [ ] Spread Sheets (_make sure it is the current one_)
 	- [ ] Justification
 	- [ ] Narrative
 
