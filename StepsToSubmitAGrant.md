@@ -55,12 +55,12 @@
 
 - [ ] Fill out CUA’s *Conflict Research Disclosure Form*
  
-- [ ]Submit to Steven Kraemer for approval:
-	- [ ]Total Budget pdf
-	- [ ]Complete Proposal pdf
+- [ ] Submit to Steven Kraemer for approval:
+	- [ ] Total Budget pdf
+	- [ ] Complete Proposal pdf
 
-- [ ]Send Ralph Albano:
-	- [ ]Conflict Research Disclosure Form
-	- [ ]Collaborator Docs. (see above)
+- [ ] Send Ralph Albano:
+	- [ ] Conflict Research Disclosure Form
+	- [ ] Collaborator Docs. (see above)
 
-- [ ]Release to Org in NSPIRES
+- [ ] Release to Org in NSPIRES
