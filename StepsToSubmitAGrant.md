@@ -53,11 +53,11 @@
 	- [ ] *Program Specific Data*
 	
 - [ ] If collaborating with a non-civil servant, _Collaborator Documents_ required:
-	- [ ] Commitment letter from subcontract Organization (e.g. Adnet)
+	- [ ] Commitment letter from subcontract organization (e.g. Adnet)
 	- [ ] Statement of Work 
 	- [ ] Budget
 	- [ ] Justification
-	- [ ] Rate agreement for the G&A from subcontract Organization (e.g. Adnet)
+	- [ ] Rate agreement for the G & A from subcontract organization (e.g. Adnet is 5.23%)
 
 - [ ] Fill out CUA’s [*Conflict Research Disclosure Form*](https://github.com/MSKirk/CUA_Grant_Submit/blob/master/Conflicts%20Research%20Disclosure%20Form.docx)
  
