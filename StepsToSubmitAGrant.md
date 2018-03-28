@@ -44,14 +44,14 @@
 
 - [ ] Compile into two .pdf docs:
     - [ ] Complete Proposal    
-    + Goals and Expected Significance
-    + Scientific/Technical/Management
-    + References and Citations
-    + List of Acronyms
-    + Summary of Personnel and Work Effort
-    + Biographical Sketches
-    + Current and Pending Support
-    + Budget Justification: Narrative and Details
+    	- [ ] Goals and Expected Significance
+    	- [ ] Scientific/Technical/Management
+    	- [ ] List of Acronyms
+    	- [ ] References and Citations
+    	- [ ] Summary of Personnel and Work Effort
+    	- [ ] Biographical Sketches
+    	- [ ] Current and Pending Support
+    	- [ ] Budget Justification: Narrative and Details
     
     - [ ] Total budget with spreadsheets from NASA, CUA, subcontractor
 
