@@ -1,6 +1,6 @@
 **Steps to Submit a Grant with CUA**
--------------------------------------
-__Step 1__
+=====================================
+#__Step 1__
 
 - [ ] Get team together
 
@@ -13,7 +13,7 @@ __Step 1__
 - [ ] Release Step 1 to Org
 
 -------------------------------------
-__Step 2__
+#__Step 2__
 
 - [ ] Initiate Step 2 NPIRES process
 	- [ ] Link team members in *Proposal Team*
@@ -52,14 +52,14 @@ __Step 2__
 	- [ ] *Budget*
 	- [ ] *Program Specific Data*
 	
-- [ ] If collaborating with a non-civil servant, Collaborator documents required:
+- [ ] If collaborating with a non-civil servant, _Collaborator Documents_ required:
 	- [ ] Commitment letter from subcontract Organization (e.g. Adnet)
 	- [ ] Statement of Work 
 	- [ ] Budget
 	- [ ] Justification
 	- [ ] Rate agreement for the G&A from subcontract Organization (e.g. Adnet)
 
-- [ ] Fill out CUA’s *Conflict Research Disclosure Form*
+- [ ] Fill out CUA’s [*Conflict Research Disclosure Form*](https://github.com/MSKirk/CUA_Grant_Submit/blob/master/Conflicts%20Research%20Disclosure%20Form.docx)
  
 - [ ] Submit to Steven Kraemer for approval:
 	- kraemer@cua.edu
