@@ -1,10 +1,10 @@
-**Steps to Submit a Grant with CUA**
+# Steps to Submit a Grant with CUA
 =====================================
-#__Step 1__
+## Step 1
 
 - [ ] Get team together
 
-- [ ] Initiate Step 1 NPIRES process 
+- [ ] Initiate Step 1 [NPIRES](https://nspires.nasaprs.com/external/) process 
 	- Link team members **[can not be changed]**
 	- Enter title **[can not be changed]**
 
@@ -13,16 +13,16 @@
 - [ ] Release Step 1 to Org
 
 -------------------------------------
-#__Step 2__
+## Step 2
 
-- [ ] Initiate Step 2 NPIRES process
+- [ ] Initiate Step 2 [NPIRES](https://nspires.nasaprs.com/external/) process
 	- [ ] Link team members in *Proposal Team*
 
 - [ ] Email Ralph Albano to check on CUA due date
 	- albano@cua.edu
 
 - [ ] Write Step 2 Scientific/Technical/Management section
-	- Refer to grant call for specifics to include
+	- Refer to grant call for requirements, items to include, length, etc.
 	
 - [ ] Write proposal summary (typically less than 4000 characters) 
 
@@ -31,7 +31,7 @@
 - [ ] List of Acronyms 
 
 - [ ] Put budgets together:
-	- [ ] Spread Sheets (_make sure it is the current one_)
+	- [ ] [Spread Sheets](https://github.com/MSKirk/CUA_Grant_Submit) (_make sure it is the current one_)
 	- [ ] Justification
 	- [ ] Narrative
 
@@ -46,7 +46,7 @@
     - [ ] Complete proposal  
     - [ ] Total budget
 
-- [ ] Fill out NSPIRES required fields
+- [ ] Fill out [NPIRES](https://nspires.nasaprs.com/external/) required fields
 	- [ ] *Proposal Summary*
 	- [ ] *Business Data*
 	- [ ] *Budget*
@@ -69,6 +69,6 @@
 - [ ] Send Ralph Albano:
 	- albano@cua.edu
 	- [ ] Conflict Research Disclosure Form
-	- [ ] Collaborator Docs. (see above)
+	- [ ] Collaborator Documents (see above)
 
-- [ ] Release to Org in NSPIRES
+- [ ] Release to Org in [NPIRES](https://nspires.nasaprs.com/external/)
