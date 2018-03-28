@@ -31,9 +31,9 @@ A checklist of steps to complete to submit a grant through CUA.
 
 - [ ] List of Acronyms 
 
-
 - [ ] Get budget from GSFC civil servant
 	- Have them include your lab tax on their form (from CUA salary requested)
+	- Alternatively add Pat Smith to collect the lab tax (they don't seem to be very consistent with enforcement)
 
 - [ ] Put budgets together:
 	- [ ] [CUA Spread Sheet](https://github.com/MSKirk/CUA_Grant_Submit) (_make sure it is the current one_)
