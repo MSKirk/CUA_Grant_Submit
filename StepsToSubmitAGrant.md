@@ -1,6 +1,6 @@
 # Steps to Submit a Grant with CUA
 =====================================
-## Step 1
+## NOI or Step 1
 
 - [ ] Get team together
 
