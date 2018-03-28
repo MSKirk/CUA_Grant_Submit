@@ -23,6 +23,8 @@ __Step 2__
 
 - [ ] Write Step 2 Scientific/Technical/Management section
 	- Refer to grant call for specifics to include
+	
+- [ ] Write proposal summary (typically less than 4000 characters) 
 
 - [ ] List of References  
 
