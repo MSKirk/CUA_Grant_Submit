@@ -1,4 +1,4 @@
-# Steps to Submit a Grant with CUA
+# Steps to Submit a Grant with CUA as a PI
 A checklist of steps to complete to submit a grant through CUA.
 
 ## NOI or Step 1
