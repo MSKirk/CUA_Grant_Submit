@@ -43,8 +43,16 @@
 	- Have them include your lab tax on their form (from CUA salary requested)
 
 - [ ] Compile into two .pdf docs:
-    - [ ] Complete proposal  
-    - [ ] Total budget
+    - [ ] Complete Proposal
+    	- Goals and Expected Significance
+	- Scientific/Technical/Management
+	- References and Citations
+	- List of Acronyms
+	- Summary of Personnel and Work Effort
+	- Biographical Sketches
+	- Current and Pending Support
+	- Budget Justification: Narrative and Details
+    - [ ] Total budget with spreadsheets from NASA, CUA, subcontractor
 
 - [ ] Fill out [NPIRES](https://nspires.nasaprs.com/external/) required fields
 	- [ ] *Proposal Summary*
@@ -53,6 +61,7 @@
 	- [ ] *Program Specific Data*
 	
 - [ ] If collaborating with a non-civil servant, _Collaborator Documents_ required:
+	- Most of these can be pulled from the Total Budget and Complete Proposal
 	- [ ] Commitment letter from subcontract organization (e.g. Adnet)
 	- [ ] Statement of Work 
 	- [ ] Budget
