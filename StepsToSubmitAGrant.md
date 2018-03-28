@@ -1,5 +1,6 @@
 # Steps to Submit a Grant with CUA
-=====================================
+A checklist of steps to complete to submit a grant through CUA.
+
 ## NOI or Step 1
 
 - [ ] Get team together
@@ -30,17 +31,19 @@
 
 - [ ] List of Acronyms 
 
+
+- [ ] Get budget from GSFC civil servant
+	- Have them include your lab tax on their form (from CUA salary requested)
+
 - [ ] Put budgets together:
-	- [ ] [Spread Sheets](https://github.com/MSKirk/CUA_Grant_Submit) (_make sure it is the current one_)
+	- [ ] [CUA Spread Sheet](https://github.com/MSKirk/CUA_Grant_Submit) (_make sure it is the current one_)
+	- [ ] Other spreadsheets from collaborators
 	- [ ] Justification
 	- [ ] Narrative
 
 - [ ] Create summary of work efforts for team.
 
 - [ ] Gather Biographical Sketches and Current & Pending Funding from Team
-
-- [ ] Get budget from GSFC civil servant
-	- Have them include your lab tax on their form (from CUA salary requested)
 
 - [ ] Compile into two .pdf docs:
     - [ ] Complete Proposal    
